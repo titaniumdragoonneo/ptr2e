@@ -40,7 +40,8 @@
     "removeOnRecall": true,
     "removeAfterCombat": true,
     "traits": [
-      "pseudo-affliction"
+      "pseudo-affliction",
+      "style"
     ],
     "slug": null,
     "removeAfterAttacking": true,
@@ -49,9 +50,9 @@
     "priority": 50,
     "formula": "",
     "type": "damage",
-    "description": "While afflicted with Precise, the creature has +1 default ACC and has its Initiative delayed by 20% after its Activation."
+    "description": "<p>The afflicted creature has +1 default ACC Stage and gains @Affliction[delay 20] with its Attacks.</p>"
   },
-  "description": "While afflicted with Precise, the creature has +1 default ACC and has its Initiative delayed by 20% after its Activation.",
+  "description": "<p>The afflicted creature has +1 default ACC Stage and gains @Affliction[delay 20] with its Attacks.</p>",
   "statuses": [],
   "_id": "precisecondiitem",
   "_stats": {

@@ -29,7 +29,8 @@
     "removeOnRecall": true,
     "removeAfterCombat": true,
     "traits": [
-      "pseudo-affliction"
+      "pseudo-affliction",
+      "style"
     ],
     "slug": null,
     "removeAfterAttacking": true,
@@ -38,9 +39,9 @@
     "priority": 50,
     "formula": "",
     "type": "damage",
-    "description": "While afflicted with Gambit, the creature has +2 default CRIT and -1 default ACC."
+    "description": "<p>The afflicted creature has +2 default CRIT Stages and -1 default ACC Stage.</p>"
   },
-  "description": "While afflicted with Gambit, the creature has +2 default CRIT and -1 default ACC.",
+  "description": "<p>The afflicted creature has +2 default CRIT Stages and -1 default ACC Stage.</p>",
   "statuses": [],
   "_id": "gambitcondititem",
   "_stats": {

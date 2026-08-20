@@ -18,7 +18,8 @@
     ],
     "slug": null,
     "traits": [
-      "pseudo-affliction"
+      "pseudo-affliction",
+      "style"
     ],
     "removeAfterCombat": true,
     "removeOnRecall": false,

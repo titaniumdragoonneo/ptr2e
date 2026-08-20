@@ -12,7 +12,8 @@
     "removeOnRecall": true,
     "removeAfterCombat": true,
     "traits": [
-      "pseudo-affliction"
+      "pseudo-affliction",
+      "style"
     ],
     "slug": null,
     "removeAfterAttacking": true,
@@ -21,9 +22,9 @@
     "priority": 50,
     "formula": "",
     "type": "damage",
-    "description": "A creature afflicted with Rapid ignores the @Affliction[delay] on their @Trait[flinch-XY] Attacks as though they lack the Trait AND may trigger the Resolution to @Trait[set-up] Actions as a Free Action following completion of the Set Up."
+    "description": "<p>The afflicted creatur ignores the @Affliction[delay] on their @Trait[flinch-XY] Attacks as though they lack the Trait AND may trigger the Resolution to @Trait[set-up] Actions as a Free Action following completion of the (Set Up) Action.</p>"
   },
-  "description": "A creature afflicted with Rapid ignores the @Affliction[delay] on their @Trait[flinch-XY] Attacks as though they lack the Trait AND may trigger the Resolution to @Trait[set-up] Actions as a Free Action following completion of the Set Up.",
+  "description": "<p>The afflicted creatur ignores the @Affliction[delay] on their @Trait[flinch-XY] Attacks as though they lack the Trait AND may trigger the Resolution to @Trait[set-up] Actions as a Free Action following completion of the (Set Up) Action.</p>",
   "statuses": [
     "rapid"
   ],

@@ -48,7 +48,8 @@
     "removeOnRecall": true,
     "removeAfterCombat": true,
     "traits": [
-      "pseudo-affliction"
+      "pseudo-affliction",
+      "style"
     ],
     "slug": null,
     "removeAfterAttacking": true,
@@ -57,9 +58,9 @@
     "priority": 50,
     "formula": "",
     "type": "damage",
-    "description": "While afflicted with Agile, Power of the creature's Attacks are decreased by -20% and has its Initiative advanced by 20% after its Activation."
+    "description": "<p>The afflicted creature's Attacks have -20% Power and grant the creature @Affliction[advance 20].</p>"
   },
-  "description": "While afflicted with Agile, Power of the creature's Attacks are decreased by -20% and has its Initiative advanced by 20% after its Activation.",
+  "description": "<p>The afflicted creature's Attacks have -20% Power and grant the creature @Affliction[advance 20].</p>",
   "statuses": [],
   "_id": "agileconditiitem",
   "_stats": {

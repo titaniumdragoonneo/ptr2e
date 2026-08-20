@@ -31,7 +31,8 @@
     "removeOnRecall": true,
     "removeAfterCombat": true,
     "traits": [
-      "pseudo-affliction"
+      "pseudo-affliction",
+      "style"
     ],
     "slug": null,
     "removeAfterAttacking": true,
@@ -40,9 +41,9 @@
     "priority": 50,
     "formula": "",
     "type": "damage",
-    "description": "While afflicted with Evasive, the creature has +1 default EVA and the Power of its Attacks are decreased by -20%."
+    "description": "<p>The afflicted creature has +1 default EVA Stage and their Attacks have -20% Power.</p>"
   },
-  "description": "While afflicted with Evasive, the creature has +1 default EVA and the Power of its Attacks are decreased by -20%.",
+  "description": "<p>The afflicted creature has +1 default EVA Stage and their Attacks have -20% Power.</p>",
   "statuses": [],
   "_id": "evasivecondiitem",
   "_stats": {
