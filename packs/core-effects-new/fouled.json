@@ -4,7 +4,17 @@
   "_id": "HrbBYrenh6vckv40",
   "img": "icons/magic/death/skull-poison-green.webp",
   "system": {
-    "changes": [],
+    "changes": [
+      {
+        "type": "basic",
+        "value": -40,
+        "phase": "initial",
+        "predicate": [],
+        "key": "system.modifiers.effectResistance",
+        "method": 2,
+        "ignored": false
+      }
+    ],
     "traits": [
       "minor-affliction"
     ],
