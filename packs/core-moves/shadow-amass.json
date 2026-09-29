@@ -27,7 +27,8 @@
           "flinch-20"
         ],
         "cost": {
-          "activation": "simple"
+          "activation": "complex",
+          "powerPoints": 5
         },
         "types": [
           "shadow"
@@ -36,8 +37,8 @@
         "predicate": [],
         "description": "<p>Effect: On resolution, the user has a 20% chance to gain +1 SPATK, DEF, and SPDEF Stage for 5 Activations, and this Attack is @Affliction[disabled 3]. The user has +2 Power and +20% EHR on this Attack and is Delayed 10% more for every 2 net Positive Stages the user possesses.</p>",
         "range": {
-          "target": "creature",
-          "distance": 10,
+          "target": "emanation",
+          "distance": 2,
           "unit": "m"
         },
         "power": 20,
